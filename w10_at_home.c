@@ -1,5 +1,4 @@
-// By: Daniel Lifchitz
-// St ID: 107719163
+
 
 #include <stdio.h>
 #include <string.h>
