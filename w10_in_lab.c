@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// By: Daniel Lifchitz
-// St ID: 107719163
+
 //TODO: include the string library
 
 //TODO: define constants for array sizes
